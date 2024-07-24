@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Mohammad Abdul Mannan",
+        "email": "mdmannan@gmail.com",
+        "age": 27,
+        "gender": "Male",
+        "country": "Bangladesh",
+        "city": "Comilla",
+        "address": "Monohorgonj,Comilla",
+        "phone": "50923840"
+    },
+    {
+        "name": "Ravi Raj",
+        "email": "ravi@gmail.com",
+        "age": 28,
+        "gender": "Male",
+        "country": "India",
+        "city": "Delhi",
+        "address": "Delhi,india",
+        "phone": "965546885"
+    },
+    {
+        "name": "Asef",
+        "email": "Asef@gmail.com",
+        "age": 28,
+        "gender": "Male",
+        "country": "Bangladesh",
+        "city": "Foridpur",
+        "address": "Delhi,india",
+        "phone": "5445144"
+    }
+]
